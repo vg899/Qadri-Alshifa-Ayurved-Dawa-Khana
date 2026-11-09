@@ -1,0 +1,21 @@
+export const BUSINESS_INFO = {
+  name: 'Qadri Alshifa Ayurved Dawa Khana',
+  nameHi: 'क़ादरी अलशिफ़ा आयुर्वेद दवाखाना',
+  taglineHi: 'परंपरा का विश्वास, आयुर्वेद की पहचान।',
+  taglineEn: 'Trust in Tradition, the True Identity of Ayurveda.',
+  subheadingHi: 'बेचुआ, श्रावस्ती (उत्तर प्रदेश) स्थित प्रामाणिक आयुर्वेदिक औषधालय — शुद्ध जड़ी-बूटियों एवं शास्त्रीय योगों से समग्र स्वास्थ्य लाभ।',
+  subheadingEn: 'Authentic Ayurvedic dispensary in Bechuwa, Shrawasti (U.P.) — holistic health through pure herbs and classical formulations.',
+  address: 'Bechuwa, Shrawasti, Uttar Pradesh, India',
+  addressHi: 'बेचुआ, श्रावस्ती, उत्तर प्रदेश, भारत',
+  phone: '+91 63938 80986',
+  phoneRaw: '916393880986',
+  whatsapp: '+91 63938 80986',
+  whatsappLink: 'https://wa.me/916393880986',
+  googleMapsUrl: 'https://maps.google.com/?q=Bechuwa,+Shrawasti,+Uttar+Pradesh',
+  mapsEmbedQuery: 'Bechuwa, Shrawasti, Uttar Pradesh, India',
+  email: 'qadrialshifa.ayurved@gmail.com',
+  workingHoursHi: 'सोमवार - रविवार: प्रातः 09:00 बजे से सायं 08:30 बजे तक',
+  workingHoursEn: 'Mon - Sun: 09:00 AM to 08:30 PM (IST)',
+  consultationNoteHi: 'व्यक्तिगत परामर्श एवं विशेष योग तैयार करने हेतु कृपया व्हाट्सएप पर संपर्क करें।',
+  consultationNoteEn: 'For personalized pulse diagnosis & custom herbal blends, reach out via WhatsApp.'
+};
